@@ -22,7 +22,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈└───────────┈⊷-
 ╰──────────────┈⊷
 *ᴋᴀᴠɪʏᴀ ᴍᴅ Whatsapp bot*
- *created by kavindu🔥*
+ *created by kaviya🔥*
 
  Repo: github.com/mrkavindu/V1.com
  
@@ -30,7 +30,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send the status message with an image
         await conn.sendMessage(from, { 
-            image: { url: `https://files.catbox.moe/3js349.jpg` },  // Image URL
+            image: { url: `https://files.catbox.moe/8gt4jz.jpg` },  // Image URL
             caption: status,
             contextInfo: {
                 mentionedJid: [m.sender],
@@ -38,7 +38,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '',
-                    newsletterName: 'RAVINDU_MD',
+                    newsletterName: 'KAVIYA _MD',
                     serverMessageId: 143
                 }
             }
